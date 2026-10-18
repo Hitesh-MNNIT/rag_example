@@ -1,0 +1,7 @@
+data/*.pdf
+data/faiss_index.bin
+data/chunks.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.superpowers/
