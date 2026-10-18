@@ -1,6 +1,4 @@
-data/*.pdf
-data/faiss_index.bin
-data/chunks.pkl
+# data files are tracked in the repo
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
